@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Explore the Unexplored</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <div class="company">
+        <div class="navbar">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Maps</a></li>
+                <li><a href="#">Guide Book</a></li>
+                <li><a href="#">Your Destinations</a></li>
+            </ul>
+        </div>
+        <div class="content">
+            <h1>EXPLORE NEW DESTINATIONS</h1>
+            <p>Experience the Joy of Travelling from Your Home</p>
+        </div>
+    </div>
+    
+</body>
+</html>
